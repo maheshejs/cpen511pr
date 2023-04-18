@@ -1,3 +1,6 @@
 [submodule "riscv-isa-sim"]
 	path = riscv-isa-sim
 	url = git@github.com:maheshejs/riscv-isa-sim.git
+[submodule "embench"]
+	path = embench
+	url = git@github.com:maheshejs/embench.git
